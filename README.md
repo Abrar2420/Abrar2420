@@ -1,3 +1,6 @@
+![Banner](https://i.giphy.com/jBOOXxSJfG8kqMxT11.webp)
+
+
 ## Hi there 👋
 
 # 👋 Hi, I'm Abrar
