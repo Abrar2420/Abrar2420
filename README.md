@@ -32,9 +32,9 @@ I enjoy building simple, clean, and useful web apps while improving my frontend 
 ---
 
 ### 📫 Connect with Me
-- Email: [abrar@example.com](mailto:abrar@example.com)  
+- Email: [abrar242002@gmail.com](mailto:abrar242002@gmail.com)  
 - Phone: +880 1711944366
-- WhatsApp: [Chat on WhatsApp](https://wa.me/8801234567890)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/8801711944366)
 
 ---
 
